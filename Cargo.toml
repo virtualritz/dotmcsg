@@ -1,0 +1,17 @@
+[package]
+name = "dotmcsg"
+version = "0.1.0"
+authors = ["Moritz Moeller <virtualritz@gmail.com>"]
+edition = "2024"
+description = "A Rust library for loading and writing MagicaCSG .mcsg files"
+license = "Apache-2.0 OR BSD-3-Clause OR MIT OR Zlib"
+keywords = ["magicacsg", "sdf", "csg", "graphics", "file-format"]
+categories = ["graphics", "parser-implementations"]
+repository = "https://github.com/virtualritz/dotmcsg/"
+documentation = "https://docs.rs/dotmcsg"
+readme = "README.md"
+exclude = [".github/**/*"]
+
+[dependencies]
+
+[dev-dependencies]

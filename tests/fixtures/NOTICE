@@ -1,0 +1,8 @@
+The `.mcsg` files in this directory are artworks from the MagicaCSG Demo
+distribution by ephtracy (https://ephtracy.github.io/), version Demo 0.7.3,
+dated 4/26/2024.
+
+They are included here as parser fixtures only, under the terms of that
+distribution: "for testing and non-commercial usage only". They are not part of
+the `dotmcsg` library and are not covered by its license. Remove this directory
+and `tests/demo_files.rs` before any distribution that must not carry them.
