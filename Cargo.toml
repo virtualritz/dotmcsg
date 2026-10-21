@@ -10,7 +10,7 @@ categories = ["graphics", "parser-implementations"]
 repository = "https://github.com/virtualritz/dotmcsg/"
 documentation = "https://docs.rs/dotmcsg"
 readme = "README.md"
-exclude = [".github/**/*"]
+exclude = [".github/**/*", "tests/demo_files.rs", "tests/fixtures/**"]
 
 [dependencies]
 
